@@ -1,5 +1,5 @@
 ![Netlify examples](netlify-badge-examples.png)
-
+:)
 # Netlify Feature Tour
 
 **Access this demo site**: https://feature-tour.netlify.app
