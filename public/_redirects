@@ -1,0 +1,3 @@
+   /home         /            301
+   /blog/*       /news/:splat 302
+   /*            /index.html  200
